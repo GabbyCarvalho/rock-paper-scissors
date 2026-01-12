@@ -20,7 +20,6 @@ Project Highlights:
 
 
 <img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 55 20 AM" src="https://github.com/user-attachments/assets/f890268c-b9a5-4a50-84aa-e69b64483b43" />
-<img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 55 09 AM" src="https://github.com/user-attachments/assets/21608166-b439-4170-9093-f52d9a7d2a81" />
 <img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 54 57 AM" src="https://github.com/user-attachments/assets/3948afbd-672e-4c4e-83c2-d5a45e08f96d" />
 <img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 54 51 AM" src="https://github.com/user-attachments/assets/02e19cb6-b506-4da3-adbc-5c6f95599046" />
 <img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 54 33 AM" src="https://github.com/user-attachments/assets/0e1eb446-3f1d-47c4-86d1-04ab0bef115a" />
