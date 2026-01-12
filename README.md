@@ -18,10 +18,10 @@ Project Highlights:
 
 - Includes visual feedback for player and computer moves
 
+<img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 55 09 AM" src="https://github.com/user-attachments/assets/16b9e5db-0564-4322-816a-af54231b4eb8" />
+<img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 54 07 AM" src="https://github.com/user-attachments/assets/04326b5a-1360-4781-8a37-e93469f3fc55" />
+<img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 54 19 AM" src="https://github.com/user-attachments/assets/7677e9a1-8775-4140-a109-bd2d344fff1c" />
+<img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 54 33 AM" src="https://github.com/user-attachments/assets/0ba886af-a7e2-4c02-9fdf-db09fe78efe0" />
+<img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 54 51 AM" src="https://github.com/user-attachments/assets/a4562217-4550-4fb7-8e36-3fb7d3e1977f" />
 
-<img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 55 20 AM" src="https://github.com/user-attachments/assets/f890268c-b9a5-4a50-84aa-e69b64483b43" />
-<img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 54 57 AM" src="https://github.com/user-attachments/assets/3948afbd-672e-4c4e-83c2-d5a45e08f96d" />
-<img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 54 51 AM" src="https://github.com/user-attachments/assets/02e19cb6-b506-4da3-adbc-5c6f95599046" />
-<img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 54 33 AM" src="https://github.com/user-attachments/assets/0e1eb446-3f1d-47c4-86d1-04ab0bef115a" />
-<img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 54 19 AM" src="https://github.com/user-attachments/assets/4d19c9c2-ad20-46a5-aeaf-1fcf9d545caa" />
-<img width="1440" height="900" alt="Screen Shot 2026-01-12 at 8 54 07 AM" src="https://github.com/user-attachments/assets/bf769674-c153-4c67-ae91-dded904f613f" />
+
